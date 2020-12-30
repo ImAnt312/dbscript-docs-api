@@ -1,2 +1,14 @@
-# dbscript-docs-api
- Unofficial DB-Script docs api which uses https://docs.db-script.com/
+DB-Script docs api
+==================
+
+### Endpoints
+
+*   **/search?q=YOUR\_SEARCH\_HERE**
+*   **/functionslist**
+*   **/eventssearch?q=YOUR\_SEARCH\_HERE**
+*   **/eventslist**
+
+  
+  
+
+_Made by anterresteretrevoneneon#0069_
